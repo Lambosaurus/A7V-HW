@@ -286,173 +286,73 @@ Variation1=Designator=J2|UniqueId=\HEOMIUBX|Kind=1|AlternatePart=
 Variation2=Designator=J3|UniqueId=\CCESPMBW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=outputs\Design Rule Check - Tank.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Outputs\NC Drill\Tank-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Outputs\NC Drill\Tank-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Outputs\NC Drill\Tank.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Outputs\Gerber\Tank.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Outputs\Gerber\Tank.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Outputs\Gerber\Tank.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Outputs\Gerber\Tank.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Outputs\Gerber\Tank.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Outputs\Gerber\Tank.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Outputs\Gerber\Tank.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Outputs\Gerber\Tank.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Outputs\Gerber\Tank.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Outputs\Gerber\Tank.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Outputs\Gerber\Tank.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Outputs\Gerber\Tank.GM31
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Outputs\Gerber\Tank.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Outputs\Gerber\Tank.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Outputs\Gerber\Tank.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Outputs\Gerber\Tank.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Outputs\Gerber\Tank.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Outputs\Gerber\Tank.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Outputs\NC Drill\Tank.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Outputs\Gerber\Tank.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Outputs\Gerber\Tank.RUL
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Project_Address1
-Value=InFact Ltd.
+Name=Project_URL
+Value=
 
 [Parameter2]
-Name=Project_Address2
-Value=5 Amuri Park
+Name=Project_Revision
+Value=1.0
 
 [Parameter3]
-Name=Project_Address3
-Value=404 Barbadoes Street
+Name=Project_Phone
+Value=
 
 [Parameter4]
-Name=Project_Address4
-Value=Christchurch 8013
+Name=Project_Name
+Value=
 
 [Parameter5]
-Name=Project_Address5
-Value=New Zealand
+Name=Project_LayoutBy
+Value=
 
 [Parameter6]
-Name=Project_Board_Name
+Name=Project_DraftingBy
 Value=
 
 [Parameter7]
-Name=Project_CheckingBy
+Name=Project_DesignBy
 Value=
 
 [Parameter8]
-Name=Project_Client
-Value=Client
+Name=Project_Description
+Value=
 
 [Parameter9]
 Name=Project_ComponentsBy
 Value=
 
 [Parameter10]
-Name=Project_Description
-Value=PXXX-50X - Description
-
-[Parameter11]
-Name=Project_DesignBy
-Value=Infact HW Team
-
-[Parameter12]
-Name=Project_DraftingBy
+Name=Project_Client
 Value=
 
+[Parameter11]
+Name=Project_CheckingBy
+Value=
+
+[Parameter12]
+Name=Project_Board_Name
+Value=A7V Tank
+
 [Parameter13]
-Name=Project_LayoutBy
+Name=Project_Address5
 Value=
 
 [Parameter14]
-Name=Project_Name
+Name=Project_Address4
 Value=
 
 [Parameter15]
-Name=Project_Phone
-Value=+64 3 3777316
+Name=Project_Address3
+Value=
 
 [Parameter16]
-Name=Project_Revision
-Value=0A
+Name=Project_Address2
+Value=
 
 [Parameter17]
-Name=Project_URL
-Value=www.infact.co.nz
+Name=Project_Address1
+Value=
 
 [Configuration1]
 Name=Default Configuration
