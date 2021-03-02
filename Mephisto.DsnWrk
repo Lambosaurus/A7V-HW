@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Remote\Remote.PrjPcb
+[Project2]
+ProjectPath=RemoteBack\RemoteBack.PrjPcb
+[Project3]
+ProjectPath=Tank\Tank.PrjPcb
+[Project4]
+ProjectPath=TankBack\TankBack.PrjPcb
+[Project5]
+ProjectPath=TankMotorTab\TankMotorTab.PrjPcb
+[Project6]
+ProjectPath=TankTurret\TankTurret.PrjPcb
+[Project7]
+ProjectPath=TankMBA\TankMBA.PrjMbd
